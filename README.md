@@ -236,7 +236,7 @@ This project is licensed under the MIT License.
 ## Author
 
 **Your Name**
-- GitHub: [@mai atef elkheshen](https://github.com/maiatef066)
+- GitHub: [@mai atef elkheshen](https://github.com/meiatef066)
 - LinkedIn: [mai-elkheshen](https://www.linkedin.com/in/mai-elkheshen-685b50258/)
 
 ---
