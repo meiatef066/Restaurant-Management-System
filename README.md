@@ -2,12 +2,12 @@
 
 A full-stack restaurant management application built with React and Node.js, featuring user authentication, menu management, and comprehensive testing suite.
 
-## 🚀 Live Demo
+##  Demo
+https://github.com/user-attachments/assets/60e02450-523f-4f22-bfdf-efb0aabbb977
 
+##  Implemented Features
 
-## 📋 Implemented Features
-
-### ✅ Completed Features
+###  Completed Features
 - **User Authentication** - Registration, login, and JWT-based authentication
 - **Menu Management** - Browse menu items with categories
 - **Shopping Cart** - Add/remove items with quantity management
@@ -15,7 +15,7 @@ A full-stack restaurant management application built with React and Node.js, fea
 - **Responsive Design** - Works on desktop, tablet, and mobile
 - **Comprehensive Testing** - Unit, integration, and performance tests
 
-### 🧪 Testing Suite (Implemented)
+###  Testing Suite (Implemented)
 
 #### Unit Tests
 - **Auth Tests** - User registration and login functionality
@@ -39,7 +39,7 @@ A full-stack restaurant management application built with React and Node.js, fea
 - **Throughput**: 48 requests/second
 - **Error Rate**: 14.3% (mainly ETIMEDOUT errors under high load)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI framework
@@ -87,7 +87,7 @@ restaurant-management-system/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -137,22 +137,7 @@ cd Frontend
 npm run dev
 ```
 
-## 🔌 API Endpoints
-
-### Authentication
-- `POST /api/auth/register` - User registration
-- `POST /api/auth/login` - User login
-- `GET /api/auth/profile` - Get user profile
-
-### Menu Management
-- `GET /api/meals` - Get all menu items
-- `GET /api/meals/:id` - Get specific menu item
-
-### User Management
-- `GET /api/profile` - Get user profile
-- `PUT /api/profile` - Update user profile
-
-## 🧪 Running Tests
+## Running Tests
 
 ### Unit Tests
 ```bash
@@ -181,7 +166,7 @@ The performance tests revealed:
 - **Bottlenecks**: Database queries under high concurrent load
 - **Error Handling**: 14.3% timeout errors under extreme load
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Backend Architecture
 ```
@@ -222,7 +207,7 @@ React Application
     └── Meal Service
 ```
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - **Full-Stack Development** - Complete end-to-end application
 - **RESTful API Design** - Clean, scalable backend architecture
@@ -232,7 +217,7 @@ React Application
 - **Performance Optimization** - Load testing and bottleneck identification
 - **Security Best Practices** - Input validation, password hashing, CORS
 
-## 🛣️ Future Enhancements
+##  Future Enhancements
 
 - [ ] Payment gateway integration
 - [ ] Admin dashboard
@@ -240,15 +225,15 @@ React Application
 - [ ] Real-time notifications
 - [ ] Multi-language support
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
-## 👤 Author
+## Author
 
 **Your Name**
 - GitHub: [@mai atef elkheshen](https://github.com/maiatef066)
